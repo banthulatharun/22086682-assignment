@@ -1,0 +1,239 @@
+Area,Month,TemperatureChange
+Germany,January,1.344
+Germany,January,2.242
+Germany,February,4.384
+Germany,February,2.957
+Germany,March,3.353
+Germany,March,2.037
+Germany,April,2.415
+Germany,April,1.438
+Germany,May,-0.755
+Germany,May,1.073
+Germany,June,4.429
+Germany,June,0.968
+Germany,July,2.339
+Germany,July,1.289
+Germany,August,2.926
+Germany,August,0.963
+Germany,September,0.866
+Germany,September,1.217
+Germany,October,2.174
+Germany,October,1.345
+Germany,November,1.407
+Germany,November,1.311
+Germany,December,3.207
+Germany,December,2.114
+Germany,Dec–Jan–Feb,2.941
+Germany,Dec–Jan–Feb,1.729
+Germany,Mar–Apr–May,1.671
+Germany,Mar–Apr–May,0.895
+Germany,Jun–Jul–Aug,3.231
+Germany,Jun–Jul–Aug,0.684
+Germany,Sep–Oct–Nov,1.482
+Germany,Sep–Oct–Nov,0.801
+Germany,Meteorological year,2.331
+Germany,Meteorological year,0.614
+Myanmar,January,1.515
+Myanmar,January,0.55
+Myanmar,February,1.762
+Myanmar,February,0.51
+Myanmar,March,0.784
+Myanmar,March,0.45
+Myanmar,April,1.781
+Myanmar,April,0.587
+Myanmar,May,2.14
+Myanmar,May,0.542
+Myanmar,June,1.717
+Myanmar,June,0.324
+Myanmar,July,1.129
+Myanmar,July,0.252
+Myanmar,August,1.372
+Myanmar,August,0.227
+Myanmar,September,0.891
+Myanmar,September,0.263
+Myanmar,October,1.544
+Myanmar,October,0.397
+Myanmar,November,2.043
+Myanmar,November,0.525
+Myanmar,December,1.058
+Myanmar,December,0.735
+Myanmar,Dec–Jan–Feb,1.742
+Myanmar,Dec–Jan–Feb,0.518
+Myanmar,Mar–Apr–May,1.568
+Myanmar,Mar–Apr–May,0.369
+Myanmar,Jun–Jul–Aug,1.406
+Myanmar,Jun–Jul–Aug,0.204
+Myanmar,Sep–Oct–Nov,1.493
+Myanmar,Sep–Oct–Nov,0.276
+Myanmar,Meteorological year,1.552
+Myanmar,Meteorological year,0.242
+Namibia,January,1.531
+Namibia,January,0.676
+Namibia,February,2.723
+Namibia,February,0.666
+Namibia,March,3.307
+Namibia,March,0.57
+Namibia,April,2.409
+Namibia,April,0.574
+Namibia,May,3.714
+Namibia,May,0.642
+Namibia,June,1.972
+Namibia,June,0.765
+Namibia,July,2.1
+Namibia,July,0.538
+Namibia,August,1.869
+Namibia,August,0.547
+Namibia,September,0.997
+Namibia,September,0.553
+Namibia,October,2.357
+Namibia,October,0.674
+Namibia,November,2.813
+Namibia,November,0.684
+Namibia,December,-0.429
+Namibia,December,0.534
+Namibia,Dec–Jan–Feb,1.83
+Namibia,Dec–Jan–Feb,0.505
+Namibia,Mar–Apr–May,3.143
+Namibia,Mar–Apr–May,0.461
+Namibia,Jun–Jul–Aug,1.98
+Namibia,Jun–Jul–Aug,0.386
+Namibia,Sep–Oct–Nov,2.056
+Namibia,Sep–Oct–Nov,0.43
+Namibia,Meteorological year,2.252
+Namibia,Meteorological year,0.303
+United Kingdom,January,0.922
+United Kingdom,January,1.442
+United Kingdom,February,3.211
+United Kingdom,February,1.576
+United Kingdom,March,2.088
+United Kingdom,March,1.359
+United Kingdom,April,1.641
+United Kingdom,April,0.845
+United Kingdom,May,0.219
+United Kingdom,May,0.949
+United Kingdom,June,0.57
+United Kingdom,June,0.914
+United Kingdom,July,2.027
+United Kingdom,July,0.873
+United Kingdom,August,1.594
+United Kingdom,August,0.958
+United Kingdom,September,0.917
+United Kingdom,September,0.929
+United Kingdom,October,-0.189
+United Kingdom,October,1.042
+United Kingdom,November,0.055
+United Kingdom,November,0.95
+United Kingdom,December,1.315
+United Kingdom,December,1.269
+United Kingdom,Dec–Jan–Feb,2.054
+United Kingdom,Dec–Jan–Feb,1.033
+United Kingdom,Mar–Apr–May,1.316
+United Kingdom,Mar–Apr–May,0.739
+United Kingdom,Jun–Jul–Aug,1.397
+United Kingdom,Jun–Jul–Aug,0.703
+United Kingdom,Sep–Oct–Nov,0.261
+United Kingdom,Sep–Oct–Nov,0.659
+United Kingdom,Meteorological year,1.257
+United Kingdom,Meteorological year,0.444
+United Republic of Tanzania,January,1.799
+United Republic of Tanzania,January,0.454
+United Republic of Tanzania,February,1.598
+United Republic of Tanzania,February,0.408
+United Republic of Tanzania,March,1.8
+United Republic of Tanzania,March,0.33
+United Republic of Tanzania,April,2.166
+United Republic of Tanzania,April,0.357
+United Republic of Tanzania,May,1.538
+United Republic of Tanzania,May,0.392
+United Republic of Tanzania,June,1.612
+United Republic of Tanzania,June,0.336
+United Republic of Tanzania,July,1.643
+United Republic of Tanzania,July,0.392
+United Republic of Tanzania,August,2.177
+United Republic of Tanzania,August,0.301
+United Republic of Tanzania,September,1.752
+United Republic of Tanzania,September,0.363
+United Republic of Tanzania,October,1.076
+United Republic of Tanzania,October,0.373
+United Republic of Tanzania,November,1.55
+United Republic of Tanzania,November,0.366
+United Republic of Tanzania,December,1.194
+United Republic of Tanzania,December,0.436
+United Republic of Tanzania,Dec–Jan–Feb,1.617
+United Republic of Tanzania,Dec–Jan–Feb,0.355
+United Republic of Tanzania,Mar–Apr–May,1.835
+United Republic of Tanzania,Mar–Apr–May,0.314
+United Republic of Tanzania,Jun–Jul–Aug,1.811
+United Republic of Tanzania,Jun–Jul–Aug,0.287
+United Republic of Tanzania,Sep–Oct–Nov,1.459
+United Republic of Tanzania,Sep–Oct–Nov,0.286
+United Republic of Tanzania,Meteorological year,1.68
+United Republic of Tanzania,Meteorological year,0.25
+United States of America,January,1.866
+United States of America,January,1.057
+United States of America,February,0.375
+United States of America,February,1.336
+United States of America,March,1.404
+United States of America,March,1.109
+United States of America,April,1.411
+United States of America,April,0.724
+United States of America,May,0.307
+United States of America,May,0.53
+United States of America,June,0.677
+United States of America,June,0.524
+United States of America,July,1.045
+United States of America,July,0.39
+United States of America,August,1.018
+United States of America,August,0.345
+United States of America,September,2.021
+United States of America,September,0.529
+United States of America,October,-0.269
+United States of America,October,0.767
+United States of America,November,0.514
+United States of America,November,0.84
+United States of America,December,1.988
+United States of America,December,0.847
+United States of America,Dec–Jan–Feb,1.336
+United States of America,Dec–Jan–Feb,0.708
+United States of America,Mar–Apr–May,1.041
+United States of America,Mar–Apr–May,0.445
+United States of America,Jun–Jul–Aug,0.913
+United States of America,Jun–Jul–Aug,0.284
+United States of America,Sep–Oct–Nov,0.755
+United States of America,Sep–Oct–Nov,0.502
+United States of America,Meteorological year,1.011
+United States of America,Meteorological year,0.304
+United States Virgin Islands,January,0.653
+United States Virgin Islands,January,0.424
+United States Virgin Islands,February,0.87
+United States Virgin Islands,February,0.425
+United States Virgin Islands,March,0.801
+United States Virgin Islands,March,0.558
+United States Virgin Islands,April,0.9
+United States Virgin Islands,April,0.56
+United States Virgin Islands,May,0.631
+United States Virgin Islands,May,0.512
+United States Virgin Islands,June,0.832
+United States Virgin Islands,June,0.417
+United States Virgin Islands,July,1.006
+United States Virgin Islands,July,0.238
+United States Virgin Islands,August,0.761
+United States Virgin Islands,August,0.303
+United States Virgin Islands,September,0.911
+United States Virgin Islands,September,0.326
+United States Virgin Islands,October,1.08
+United States Virgin Islands,October,0.347
+United States Virgin Islands,November,1.107
+United States Virgin Islands,November,0.391
+United States Virgin Islands,December,1.691
+United States Virgin Islands,December,0.456
+United States Virgin Islands,Dec–Jan–Feb,0.782
+United States Virgin Islands,Dec–Jan–Feb,0.38
+United States Virgin Islands,Mar–Apr–May,0.777
+United States Virgin Islands,Mar–Apr–May,0.45
+United States Virgin Islands,Jun–Jul–Aug,0.866
+United States Virgin Islands,Jun–Jul–Aug,0.275
+United States Virgin Islands,Sep–Oct–Nov,1.033
+United States Virgin Islands,Sep–Oct–Nov,0.312
+United States Virgin Islands,Meteorological year,0.865
+United States Virgin Islands,Meteorological year,0.274
